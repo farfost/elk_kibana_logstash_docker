@@ -1,0 +1,1 @@
+docker-compose stop && docker-compose rm -f || /bin/true && docker-compose up -d
